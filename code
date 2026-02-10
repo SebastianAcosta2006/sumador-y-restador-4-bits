@@ -82,3 +82,4 @@ print("A     =", bits_a_str(A))
 print("B     =", bits_a_str(B))
 print("SUMA  =", ('1' if carry else '0') + bits_a_str(suma))
 print("RESTA =", bits_a_str(resta))
+
